@@ -2,7 +2,7 @@
 //  OpenGLViewController.h
 //  BasicCamera
 //
-//  Created by Keiichiro Nagashima on 12/07/10.
+//  Created by k16 on 12/07/10.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  CustomImagePickerViewController.h
 //  BasicCamera
 //
-//  Created by Keiichiro Nagashima on 12/07/13.
+//  Created by k16 on 12/07/13.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  Shader.h
 //  BasicCamera
 //
-//  Created by Keiichiro Nagashima on 12/07/18.
+//  Created by k16 on 12/07/18.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
 

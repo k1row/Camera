@@ -2,7 +2,7 @@
 //  SimpleOpenGL.h
 //  BasicCamera
 //
-//  Created by Keiichiro Nagashima on 12/07/27.
+//  Created by k16 on 12/07/27.
 //
 //
 

@@ -2,7 +2,7 @@
 //  IndicatorView.h
 //  hola
 //
-//  Created by 哲太郎 村上 on 12/04/26.
+//  Created by on 12/04/26.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
 

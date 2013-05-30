@@ -2,7 +2,7 @@
 //  UIView_MTExtention.h
 //  PullTest
 //
-//  Created by 哲太郎 村上 on 12/04/16.
+//  Created by on 12/04/16.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
 

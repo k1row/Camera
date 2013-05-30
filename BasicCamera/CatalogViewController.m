@@ -2,7 +2,7 @@
 //  CatalogViewController.m
 //  BasicCamera
 //
-//  Created by 哲太郎 村上 on 12/07/01.
+//  Created by on 12/07/01.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
 

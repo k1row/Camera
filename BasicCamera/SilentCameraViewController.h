@@ -2,7 +2,7 @@
 //  SilentCameraViewController.h
 //  BasicCamera
 //
-//  Created by 哲太郎 村上 on 12/06/29.
+//  Created by on 12/06/29.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
 
